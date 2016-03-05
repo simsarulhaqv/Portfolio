@@ -1,0 +1,31 @@
+/* -- About Section -- */
+.about .container {
+  padding: 60px 0;
+}
+
+.about {
+  background-color: #fff;
+}
+
+.about h2 {
+  color: #333;
+}
+
+.about p {
+  color: #333;
+}
+
+.about img {
+  border-radius: 50%;
+  float: left;
+  margin: 40px 40px;
+  }
+.about img-circle {
+    border-radius: 50%;
+}
+  
+.about-text {
+  margin: 0;
+  overflow: hidden;
+  padding: 0 10px;
+}
