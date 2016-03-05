@@ -1,0 +1,39 @@
+/* -- Home Jumbotron -- */
+.jumbotron {
+  background: url("../img/bgimg.png") no-repeat;
+  background-size: cover;
+  height: 750px;
+}
+
+.main {
+  position: relative;
+  text-align: center;
+  top: 220px;
+}
+
+.main h1 {
+  font-size: 70px;
+  font-weight: 500;
+  margin-top: 0;
+  text-transform: uppercase;
+  color: #000;
+   font-family: 'Opensans', sans-serif;
+}
+
+.main p {
+  font-size: 30px;
+}
+
+.main .btn {
+  background-color: #2e7d32;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+  transition: background .3s;
+  padding: 15px 40px;
+}
+
+.main .btn:hover {
+  background: #000;
+  transition: background .3s;
+}
