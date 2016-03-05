@@ -1,0 +1,12 @@
+/* -- Footer -- */
+footer {
+  background-color: #2e7d32;
+  padding-top:10px;
+}
+
+
+footer p {
+  color: #fff;
+  margin: 0;
+  padding-bottom: 20px;
+}
