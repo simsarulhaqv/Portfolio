@@ -1,0 +1,30 @@
+/* -- Contact Info -- */
+.contact {
+  background-color: #fff;
+  padding-bottom: 20px;
+}
+
+.contact .container {
+  text-align: center;
+}
+
+.contact h2 {
+  margin-top: 0;
+}
+
+.contact a {
+  background-color: #fff;
+  color: #333;
+  display:inline-block;
+  margin: 20px;
+  padding: 20px;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  vertical-align:top;
+  width: 50px;
+}
+
+.contact a:hover {
+  transform: scale(1.1);
+  color: #f90;
+}
